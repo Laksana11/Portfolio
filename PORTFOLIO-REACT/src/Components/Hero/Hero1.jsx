@@ -1,6 +1,6 @@
 import React from "react";
 
-const AboutMe = () => {
+const Hero1 = () => {
   return (
     <div className="hero">
       <img src={Lax} alt="" height="200" width="200" />
@@ -26,4 +26,4 @@ const AboutMe = () => {
   );
 };
 
-export default AboutMe;
+export default Hero1;
